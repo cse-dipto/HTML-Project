@@ -1,7 +1,0 @@
-config
-
-git init
-git add index.html
-git commit -m "Add file"
-git status
-git log
